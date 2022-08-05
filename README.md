@@ -5,8 +5,9 @@
 
 #### To run the project for the first time
 $ ./create.sh
-#### To update the project for the next times after creation
+for each stack, the project-network stack, and project-servers stack.
+#### To update whichever stack for the next times after creation
 $ ./update.sh
-#### To delete the stack!
+#### To delete whichever stack!
 
 $ ./delete.sh
